@@ -1,0 +1,29 @@
+html
+{
+    width: 100%;
+    overflow-x: hidden;
+}
+    body
+    {
+        width:980px;
+        margin:0 auto;
+    }
+    div.cub>div.m
+    {
+        margin:22px 23px 0 23px;
+    }
+    .menu-left li a.indent
+    {
+        margin-left:15px;
+    }
+    .share
+    {
+        float:right;
+        font:14px/21px robot;color:#f5f5f5;
+    }
+    .input-title
+    {
+        font:23px/25px robot;
+        color:#f5f5f5;
+        float:left;
+    }
