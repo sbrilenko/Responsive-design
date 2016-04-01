@@ -1,7 +1,7 @@
 # Responsive design 
 
 
-**Task:** 
+**Task:** Create responsive design
 
 **Technologies:** HTML, CSS, jQuery
 
